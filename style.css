@@ -1,0 +1,200 @@
+body{
+    font-family: Tahoma;
+    width: 1000px;
+    font-size: 13px;
+    margin: 30px 50px 30px 30px;
+     margin-bottom: 20px; 
+}
+nav{
+    background: blue;
+    height: 70px;
+    
+}
+nav p{
+    color: white;
+    font-size: 20px;
+    padding-left: 100px;
+    float: left;
+}
+nav ul{
+    margin: 0px;
+    padding-left: 500px;
+    padding-top: 23px;
+    
+}
+nav ul li{
+    font-size: 15px;
+    list-style: none;
+    float: left;
+    
+}
+nav ul li a{
+    text-decoration: none;
+    
+    padding: 10px;
+    height: 40px;
+    color: white;
+}
+nav ul li a:hover:not(.active) {
+    background-color: brown;
+}
+nav ul li a.active {
+   color: orange;
+    }
+
+#banner{
+   
+    height: auto;
+    
+}
+#about_us{
+    padding-top: 30px;
+    padding-left: 200px;
+    display: inline-block;
+    
+}
+
+#about_us #left{
+    background: white;
+    height: 300px;
+    width: 300px;
+    float: left;
+}
+#about_us #right{
+    background: red;
+    height: 300px;
+    width: 300px;
+    float: left;
+}
+
+#edu{
+   
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+#edu #left{
+    background: blue;
+    height: 300px;
+    width: 500px;
+    float: left;
+    
+}
+#edu #right{
+    background-image: url(https://i.imgur.com/YE6srBq.jpg);
+    height: 300px;
+    width: 500px;
+    float: left;
+}
+#edu #right div{
+    padding-left: 20px;
+    color: white;
+}
+#news{
+    padding-left: 200px;
+    padding-top: 50px;
+    display: inline-block;
+}
+#news #left{
+    background:;
+    height: 250px;
+    width: 200px;
+    float: left;
+    border: 1px solid gray;
+    margin-right: 20px;
+}
+#news #left di{}
+#news #center{
+    background: ;
+    height: 250px;
+    width: 200px;
+    float: left;
+    border: 1px solid gray;
+    margin-right: 20px;
+}
+#news #right{
+    background: ;
+    height: auto;
+    width: 200px;
+    float: left;
+    border: 1px solid gray;
+    margin-right: 20px;
+}
+
+#contact{
+    padding-top: 5px;
+    padding-left: 200px;
+    height: 150px;
+    display: inline-block;
+}
+#contact #left{
+    background: ;
+    
+    width: 315px;
+
+}
+#contact #left #mess{
+    padding-top: 10px;
+    margin-top: 10px;
+    height: 100px;
+    width: 305px;
+}
+#contact #submit{
+    
+    height: 30px;
+    width: 110px;
+    padding-top: 3px;
+    background-color: yellow;
+    margin-top: 3px;
+    align-content: center;
+}
+
+#contact #right{
+    width: 300px;
+   
+    padding-left: 10px;
+   
+}
+footer{
+    padding-left: 200px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    color: black;
+    font-size: 13px;
+    margin-top: 20px;
+    background-color: darkslategrey;
+    display: inline-block;
+    width: 100%;
+}
+}
+#footer #crevea{
+    
+    height: 100px;
+    width: 100px;
+    float: left;
+}
+#footer #catag{
+    
+    height: 150px;
+    width: 150px;
+    
+    list-style-type: none;
+    text-decoration: none;
+}
+#footer #lang{
+    
+    height: 150px;
+    width: 150px;
+    float: left;
+}
+#footer #get{
+    background:;
+    height: 150px;
+    width: 150px;
+    float: left;
+   
+}
+footer #copy rights{
+    clear: right;
+    background-color: red;
+}
+
