@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>ASM SECOND ver 3</title>
+        <link rel="stylesheet" href="css/style1.css">
+        <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+    </head>
+    <body>
+        <nav>
+            <p >CREVEA Inc</p>
+            <ul>
+                <li><a class="active" href="#home">Home</a></li>
+                <li><a href="#Our business">OUR BUSINESS</a></li>
+                <li><a href="#About us">ABOUT US</a></li>    
+                <li><a href="#Contacts">CONTACT</a></li>
+            </ul>
+        </nav>
+        <div id="banner">
+            <img src="https://i.imgur.com/z7MBEsN.jpg" width="100%" height="300px" > 
+        
+        </div>
+        <div id="about_us"> 
+            <div id="left"><h4 style= "color: #da6868" > <i class="fas fa-cloud"><i class="fal fa-angle-right"></i></i>ABOUT US</h4>
+                <b>Our goal is "to support and connect educational institutions, companies across the world byproviding highly qualified skilled human resourse for mutual development and consulting services in job and skills trainning". Achieving this, we hope to constribute to the betterment of society.</b> <br><br>
+                <span>Our staff are highly experienced and serious members of diverse backgrounds in educational institutions and companies in Vietnam and other territories across the globe.We could provide experior servieces to our customers.</span>
+            </div>
+            <div id="right">
+                <img src="https://i.imgur.com/RsFGT4B.jpg" width="100%" height="100%">
+            
+            </div>
+        </div>
+        
+        <div id="edu">
+            <div id="left">
+                <img src="https://i.imgur.com/5AVVaKY.jpg" width="100%" height="100%" >
+            </div>
+            <div id="right">
+                
+                <div><h6 style="color: whitesmoke" "font-size: 15px">OUR BUSINESSES</h6>
+                <h3 style="color: whitesmoke" "padding-left: 10px">Education consulting</h3>
+                <h6 style="color: whitesmoke" >We offer various services as required from different educational institutions in Vietnam</h6>
+                <h3 style="color: whitesmoke" "padding-left: 10px" >Business consulting</h3>
+                <h6 style="color: whitesmoke" "padding-left: 10px">We provide various services according to requests from foreign companies and educational institutions</h6>
+                </div>
+            </div>
+        </div>
+        
+        <div id="news">
+            <div id="left">
+                <img src="https://i.imgur.com/9oymWKS.jpg" width="100%" height="180px">
+                <div width="100%" height="50px"><b>Japanese staff agency company visited to Hanoi</b>
+                    <h6 style="color: gray">Read more</h6>
+                </div>
+            </div>
+            <div id="center">
+                <img src="https://i.imgur.com/N9c8DaB.jpg" width="100%" height="180px">
+                <div width="100%" height="50px"><b>Taiwanese university visited to Hanoi</b>
+                    <h6 style="color: gray">Read more</h6>
+                </div>
+            </div>
+            <div id="right">
+                <img src="https://i.imgur.com/jmrZrhu.jpg" width="100%" height="180px">
+                <div width="100%" height="50px"><b>We are pleased to announce the renewal of CRECEA Inc.official website</b>
+                    <p style="color: gray">We changed the whole design and format to create more efficient and superior exerience for our customers once they visit the website. We will continue updating it and providing more useful information. The website in Japanese wwil come out soon</p>
+                    <h6 style="color: gray">Read more</h6>
+                </div>
+            </div>
+            
+        </div>
+        <div id="contact">
+            <div id="left">
+                <h6>Contacts</h6>
+                <b>We will connect you wwith the relevant person in charge. Please click " Send button" after providing your registering input.</b> <br><br>
+                <input type="text" placeholder="Your name" size="8px"> &nbsp; &nbsp;
+                <input type="text" placeholder="Email address" size="8px"> &nbsp; &nbsp;
+                <input type="text" placeholder="Phone number" size="9px"><br>
+                <input id="mess" type="text" placeholder="Your mesage" size="30px"><br>
+            <div>
+                <input id="submit" type="submit" value="Send mesage">
+            </div>
+            </div>  
+            
+            <div id="right">
+                 <img src="https://i.imgur.com/o9NCdFV.png" width="100%" >
+         
+            </div>
+        </div>
+        
+        <footer >
+            <div id="crevea">
+                <p >CREVEA<br>Add: No45C, 210 alley Hoang Quoc Viet stret <br> Cau Giay- Ha Noi- Viet Nam <br>
+                 TEL: (+84) 989.412.665 <br>
+                Email: daisuke.kawashima@crevea.vn<br>
+                Follow us on:</p>
+            </div>
+            <div id="catag">
+                <p>CATEGORYS</p>
+                <li style="color:blue;"><a href="#home"><u>Home</u></a></li>
+                <li style="color:blue;"><a href="#news"><u>News</u></a></li> 
+                <li style="color:blue;"><a href="#Our business"><u>OUR BUSINESS</u></a></li>
+                <li style="color:blue;"><a href="#About us"><u>ABOUT US</u></a></li>     
+                <li style="color:blue;"><a href="#Contacts"><u>CONTACT</u></a></li>
+            
+            </div>
+            <div id="lang" >LANGUAGES<br>
+                English<br>
+                Japanese<br>
+                
+            </div>
+            <div id="get">
+                GET OUR NEWS FROM US
+                <p>Please enter the email below to not miss the lastest news form us!</p>
+                <input type="email" placeholder="Your email enter"><br>
+            </div>
+           
+        </footer>
+            <div id="copy rights" style="text-align: center" "background: darkslategrey" >Ⓒ 2018 CREVEA Inc. All rights Reverved.</div>
+            
+            
+    </body>
+</html>
