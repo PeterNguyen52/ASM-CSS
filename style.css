@@ -121,14 +121,14 @@ nav ul li a.active {
 }
 
 #contact{
-    padding-top: 5px;
+    padding-top: 25px;
     padding-left: 200px;
-    height: 150px;
+    height: 270px;
     display: inline-block;
 }
 #contact #left{
     background: ;
-    
+    float: left;
     width: 315px;
 
 }
@@ -138,32 +138,33 @@ nav ul li a.active {
     height: 100px;
     width: 305px;
 }
-#contact #submit{
+#submit{
     
+    background: yellow;
+    text-align: center;
     height: 30px;
-    width: 110px;
-    padding-top: 3px;
-    background-color: yellow;
-    margin-top: 3px;
-    align-content: center;
+
 }
 
 #contact #right{
     width: 300px;
-   
+    float: right;
     padding-left: 10px;
+    padding-top: 20px;
    
 }
-footer{
+#footer{
     padding-left: 200px;
     padding-bottom: 20px;
     padding-top: 20px;
-    color: black;
+    color: white;
     font-size: 13px;
     margin-top: 20px;
     background-color: darkslategrey;
     display: inline-block;
     width: 100%;
+    
+
 }
 }
 #footer #crevea{
@@ -176,7 +177,7 @@ footer{
     
     height: 150px;
     width: 150px;
-    
+    color: white;
     list-style-type: none;
     text-decoration: none;
 }
@@ -187,14 +188,16 @@ footer{
     float: left;
 }
 #footer #get{
-    background:;
+    
     height: 150px;
     width: 150px;
     float: left;
    
 }
-footer #copy rights{
-    clear: right;
+#footer #copy rights{
+    
     background-color: red;
+    position: 
+    bottom: 0px;
 }
 
